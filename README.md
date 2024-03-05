@@ -20,5 +20,7 @@ Air Quality Rank--------->Level of Concern
 
 0 --------> Hazardous
 
+I have implemented K-Nearest Neighbors, Decision Tree, Naive Bayes and Neural Network using Sk-learn and Keras libraries. 
 
+The Decision Tree Classifier algorithm worked best with accuracy score of 0.99 and 0.97 on train and test data respectively.
 
